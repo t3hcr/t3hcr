@@ -1,6 +1,6 @@
 Hello! :wave: I'm @t3hcr.
 
->> PS : Get-AboutMe
+<code>PS : Get-AboutMe</code>
 
 Name        : Chris Rivers
 Company     : Beck's Superior Hybrids (Largest family-owned seed company in the U.S.)
