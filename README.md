@@ -8,5 +8,3 @@ Title       : Systems Administrator (I get to help farmers succeed with PowerShe
 Hobbies     : Fishing, gardening, hiking, astronomy
 Passions    : My faith, family, and helping others
 ```
-
-![t3hcr's GitHub stats](https://github-readme-stats.vercel.app/api?username=t3hcr&count_private=true)
